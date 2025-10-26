@@ -4,28 +4,30 @@ do {
   alert("Quiz has started....");
   const assignmentquestions = [
     {
-      prompt: "15 * 5 =?",
-      answer: "75",
+      prompt: "If const y=2 , and let z=5, what is x when const x = z%y",
+      answer: "1",
     },
     {
-      prompt: "Africa is a state",
+      prompt:
+        "When using and/or operators, it is possible to use the word instead of the sign",
       answer: "false",
     },
     {
-      prompt: "How many times does the earth revole around the sun",
-      answer: "365.25 days",
+      prompt: "Among the variable types var is the most recommended",
+      answer: "false",
     },
     {
-      prompt: "How many continents are there in the world",
-      answer: "seven",
+      prompt:
+        "what is defined as a container or label you assign to values or data you want to store?",
+      answer: "Variables",
     },
     {
-      prompt: "Who is the father of computer science?",
-      answer: "Charles Babbage",
+      prompt: "What does the 'b' in BODMAS mean?",
+      answer: "Bracket",
     },
     {
-      prompt: "How many months are in a year?",
-      answer: "12",
+      prompt: "JavaScript starts counting from?",
+      answer: "0",
     },
   ];
 
